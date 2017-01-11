@@ -16,4 +16,4 @@
 - cd EVE
 - npm install && bower install 
 - 连接Mongodb
-- gulp && npm start
+- gulp && npm run watch
